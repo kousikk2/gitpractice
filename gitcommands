@@ -1,5 +1,2 @@
-step 1 : git config
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[3~[C[C[C[C[C[C[C[C[C[C
-git add -A or git add . or git add <filename>
-git commit -m "message or comment"
-git push -u orgin main
+git clone repositoryname>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D<[C[C[C[C[C[D[D[D[D[Dr[epository code> for main 
+git clone -b <repo name> <repo code> for branches
